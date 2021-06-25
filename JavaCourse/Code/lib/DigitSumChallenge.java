@@ -21,11 +21,11 @@
 class DigitSumQuestion {
 
     public static int sumDigits(int num) {
-        if (num < 10) {         // If the input givin is not valid (Needs 2 digits)
+        if (num < 10) { // If the input givin is not valid (Needs 2 digits)
             return -1;
         } else {
 
-            int answer = 0;     // The returned answer
+            int answer = 0; // The returned answer
 
             while (num >= 10) { // While the number has more then 1 remaining digit
                 answer = answer + num % 10; // Remove the last digit and add it to the sum total

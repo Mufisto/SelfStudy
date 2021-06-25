@@ -11,10 +11,10 @@ class ConditionalsCode {
         DoWhileQuestion e = new DoWhileQuestion();
 
         a.run();
-        // b.run();
-        // c.run();
-        // d.run(1, 11);
-        // e.run();
+        b.run();
+        c.run();
+        d.run(1, 11);
+        e.run();
 
     }
 }
