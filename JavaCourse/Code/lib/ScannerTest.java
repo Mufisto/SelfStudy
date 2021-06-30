@@ -10,15 +10,16 @@ public class ScannerTest {
         
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Enter your age: ");
-        int age = scanner.nextInt();
-
-        System.out.println("You are " + age + " years old");
-
         System.out.println("Enter your name: ");
         String name = scanner.nextLine();
 
-        System.out.println("Hello " + name);
+        System.out.println("Hello " + name + ", now please enter your age: ");
+
+        int age = scanner.nextInt();
+
+        System.out.println(name + " is " + age + " years old!");
+
+        scanner.close();
 
 
     }
