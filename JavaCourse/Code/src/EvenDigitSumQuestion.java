@@ -7,7 +7,7 @@
 
 public class EvenDigitSumQuestion {
 
-    private static final int TEST_INPUT = 12345678;
+    private static final int TEST_INPUT = 12345678; // 2 + 4 + 6 + 8 = 20
 
     private static int getEvenDigitSum(int input) {
 
