@@ -1,3 +1,4 @@
+package Section1;
 import java.util.Scanner;
 
 // Write a method called inputThenPrintSumAndAverage that does not have any parameters.

@@ -1,3 +1,4 @@
+package Section1;
 // Write a method named printSquareStar with one parameter of type int named number. 
 
 // If number is < 5, the method should print "Invalid Value".

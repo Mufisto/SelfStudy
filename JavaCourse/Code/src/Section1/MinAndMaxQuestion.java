@@ -1,3 +1,4 @@
+package Section1;
 import java.util.Scanner;
 
 // -Read the numbers from the console entered by the user and print the minimum and maximum number the user has entered.

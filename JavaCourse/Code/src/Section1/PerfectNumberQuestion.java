@@ -1,3 +1,4 @@
+package Section1;
 // What is the perfect number?
 // A perfect number is a positive integer which is equal to the sum of its proper positive divisors.
 // Proper positive divisors are positive integers that fully divide the perfect number without leaving 

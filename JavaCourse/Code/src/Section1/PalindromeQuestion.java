@@ -1,3 +1,4 @@
+package Section1;
 //Write a method called isPalindrome with one int parameter called number.
 
 // The method needs to return a boolean.

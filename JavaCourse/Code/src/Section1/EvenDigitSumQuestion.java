@@ -1,3 +1,4 @@
+package Section1;
 
 // Write a method named getEvenDigitSum with one parameter of type int called number.
 

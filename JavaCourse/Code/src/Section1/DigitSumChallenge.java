@@ -1,3 +1,4 @@
+package Section1;
 // Write a method with the name sumDigits that has one int parameter called
 // number.
 

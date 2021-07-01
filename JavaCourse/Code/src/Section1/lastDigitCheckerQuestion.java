@@ -1,3 +1,4 @@
+package Section1;
 // Write a method named hasSameLastDigit with three parameters of type int. 
 
 // Each number should be within the range of 10 (inclusive) - 1000 (inclusive).

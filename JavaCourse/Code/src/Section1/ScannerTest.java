@@ -1,3 +1,4 @@
+package Section1;
 import java.util.Scanner;
 
 // THIS IS JUST A TEST FILE FOR ME TO PLAY WITH AND UNDERSTAND THE LOGIC BEHIND THE 
