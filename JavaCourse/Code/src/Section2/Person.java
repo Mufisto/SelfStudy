@@ -58,6 +58,14 @@ public class Person {
     }
 
     public String getFullName(){
+
+        if(firstName == null) {
+            firstName = "";
+        }
+        if(lastName == null) {
+            lastName = "";
+        }
+        
         if(firstName.isEmpty() && lastName.isEmpty()){
             return "";
         }
@@ -85,7 +93,11 @@ public class Person {
         System.out.println(johnny.getFullName());
         
 
-        johnny.setFirstName("McGrack");
+        johnny.setLastName("McGrack");
+
+        System.out.println(johnny.getFullName());
+
+        johnny.setFirstName(null);
 
         System.out.println(johnny.getFullName());
 
